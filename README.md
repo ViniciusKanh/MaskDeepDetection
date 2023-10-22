@@ -1,4 +1,6 @@
-# MaskDeepDetection 😷🤖
+# 😷MaskDeepDetection🤖
+
+![Deep Learning](https://github.com/ViniciusKanh/MaskDeepDetection/blob/main/img/DeepLearning.jpeg)
 
 ![GitHub](https://img.shields.io/github/license/ViniciusKanh/MaskDeepDetection)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ViniciusKanh/MaskDeepDetection)
@@ -46,8 +48,23 @@ Nosso modelo de aprendizagem profunda é baseado na arquitetura VGG19 pré-trein
 ## Treinamento
 O modelo foi treinado por 50 épocas. Você pode encontrar o modelo treinado [aqui](inserir link).
 
-## Resultados
-Inserir resultados e imagens aqui.
+## Resultados 📊📸
+
+Nossas atividades de treinamento e detecção de máscaras produziram resultados significativos. A seguir, apresentamos dois exemplos de imagens capturadas durante as fases de testes:
+
+### Exemplo 1
+![Exemplo 1](https://github.com/ViniciusKanh/MaskDeepDetection/blob/main/img/Exemplo1.png)
+
+Neste cenário, destacamos a precisão da rede neural em identificar corretamente a presença de máscaras faciais.
+
+### Exemplo 2
+![Exemplo 2](https://github.com/ViniciusKanh/MaskDeepDetection/blob/main/img/Exemplo%202.png)
+
+No segundo caso, reforçamos a eficácia do modelo ao detectar adequadamente o uso de máscaras faciais.
+
+Esses resultados evidenciam a competência do MaskDeepDetection na supervisão e garantia do cumprimento das diretrizes de segurança.
+
+
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
